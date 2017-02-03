@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<link href="https://fonts.googleapis.com/css?family=Overpass" rel="stylesheet">]]></content>
+	<tabTrigger>googlefonts</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
